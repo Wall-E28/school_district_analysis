@@ -61,7 +61,7 @@ We are going to look at the following comparisons between two analyses.
 
 The four major changes that occured between the two analyses were:
 
-1. Without the 9th graders' scores, Thomas High School is not as competitive with other charter schools
-2. Without Thomas High School, the overall 9th graders' scores fell
-3. Without the 9th graders' scores, the district summary changes much less than the Thomas High School
+1. Without the 9th graders' scores, Thomas High School is not as competitive with other charter schools.
+2. Without Thomas High School, the overall 9th graders' scores fell.
+3. Without the 9th graders' scores, the district summary changes much less than the Thomas High School.
 4. While 9th graders at Thomas High School aren't their highest performers, they do balance out the school's scores compared to just looking at 10th-12th graders.
