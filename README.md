@@ -22,29 +22,40 @@ We are going to look at the following comparisons between two analyses.
 ### Answers 
 
 1. How is the district summary affected?
+
     - The only change is a .1% drop in avg math scores between the two analyses
     ![Before_District_Summary](https://github.com/Wall-E28/school_district_analysis/blob/master/Resources/Before_District_Summary.png)
     ![After_District_Summary](https://github.com/Wall-E28/school_district_analysis/blob/master/Resources/After_District_Summary.png)
 2. How is the school summary affected?
+
     - The only change is within Thomas High Schools statistics as both math and reading scores drop. 
     ![Before_School_Summary](https://github.com/Wall-E28/school_district_analysis/blob/master/Resources/Before_School_Summary.png)
     ![BAfter_School_Summary](https://github.com/Wall-E28/school_district_analysis/blob/master/Resources/After_School_Summary.png)
 3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
     - Thomas High School's scores fell heavily dropping them from 4th to 7th highest scores in the district
 4. How does replacing the ninth-grade scores affect the following:
+
     - Math and reading scores by grade
+
         - The 9th grade scores were brought down as Thomas High School 9th graders averaged higher than other schools
         ![Before_Grade_by_School](https://github.com/Wall-E28/school_district_analysis/blob/master/Resources/Before_Grades_by_School.png)
         ![After_Grade_by_School](https://github.com/Wall-E28/school_district_analysis/blob/master/Resources/After_Grades_by_School.png)
     - Scores by school spending
+
         - The $630 to $644 range saw a drop from 63% to 56% overall passing percentage
         ![Before_Spending_Range](https://github.com/Wall-E28/school_district_analysis/blob/master/Resources/Before_Spending_Range.png)
         ![After_Spending_Range](https://github.com/Wall-E28/school_district_analysis/blob/master/Resources/After_Spending_Range.png)
-    - Scores by school size 
+    - Scores by school size
+
         - The 1000 to 2000 size schools saw a drop from 91% to 85% overall passing percentage
         ![Before_School_Size](https://github.com/Wall-E28/school_district_analysis/blob/master/Resources/Before_School_Size.png)
         ![After_School_Size](https://github.com/Wall-E28/school_district_analysis/blob/master/Resources/After_School_Size.png)
     - Scores by school type
+    
         - The charter type schools saw a drop from 90% to 87% overall passing percentage
         ![Before_School_Type](https://github.com/Wall-E28/school_district_analysis/blob/master/Resources/Before_School_Type.png)
         ![After_School_Type](https://github.com/Wall-E28/school_district_analysis/blob/master/Resources/After_School_Type.png)
+
+## Summary
+
